@@ -130,15 +130,7 @@
         return (0, a.jsx)("div", {
           className: "w-full  md:px-10 px-4 ",
           children: (0, a.jsx)(c, {
-            cards: [
-              {
-                title: "Solana Alpha Wallets Scanner",
-                description:
-                  "Track and analyze Solana wallets with advanced accuracy.",
-                icon: "/_next/static/media/1.0018fd88.png",
-                cover: "/_next/static/media/cover1.bc647768.png",
-                link: "?type=solana-scan",
-              },
+            cards: [              
               {
                 title: "Ethereum Alpha Wallets For Maestro and Banana Gun",
                 description:
